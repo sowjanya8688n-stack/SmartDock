@@ -29,7 +29,7 @@ All operational records are synthetic. No external or personal data is used.
 Clone the repository and enter it:
 
 ```powershell
-git clone <YOUR_PUBLIC_REPOSITORY_URL>
+git clone https://github.com/sowjanya8688n-stack/SmartDock.git
 cd SmartDock
 ```
 
