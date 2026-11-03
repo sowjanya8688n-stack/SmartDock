@@ -1,0 +1,20 @@
+{
+  "valid": true,
+  "errors": [],
+  "row_counts": {
+    "facilities": 10,
+    "docks": 100,
+    "yard_slots": 200,
+    "carriers": 50,
+    "vehicles": 500,
+    "appointments": 20000,
+    "shipments": 20000,
+    "labor_shifts": 600,
+    "handling_requirements": 20000,
+    "checkin_events": 19999,
+    "exceptions": 5,
+    "events": 100000,
+    "ground_truth": 5
+  },
+  "ground_truth_labels": 5
+}

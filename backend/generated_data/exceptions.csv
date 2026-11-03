@@ -1,0 +1,6 @@
+exception_id,appointment_id,issue_type,cause_code,severity,detected_at,resolution_status
+EXC-019995,APPT-2026-019995,overlapping_appointments,DOCK_CAPACITY,high,2026-01-09T05:02:00,open
+EXC-019996,APPT-2026-019996,incompatible_load_assigned,DOCK_COMPATIBILITY,high,2026-01-04T05:02:00,open
+EXC-019997,APPT-2026-019997,checkin_before_appointment_date,EARLY_DATE,high,2026-01-30T05:02:00,open
+EXC-019998,APPT-2026-019998,labor_shift_unavailable,LABOR_UNAVAILABLE,high,2026-02-22T05:02:00,open
+EXC-019999,APPT-2026-019999,no_show_not_recorded,NO_SHOW,high,2026-02-28T05:02:00,open

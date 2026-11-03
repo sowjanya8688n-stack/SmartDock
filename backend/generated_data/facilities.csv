@@ -1,0 +1,11 @@
+facility_id,name,city,timezone,effective_from,status
+FAC-001,Fulfillment Center 01,Chicago,America/Chicago,2026-01-01,active
+FAC-002,Fulfillment Center 02,Dallas,America/Chicago,2026-01-01,active
+FAC-003,Fulfillment Center 03,Atlanta,America/Chicago,2026-01-01,active
+FAC-004,Fulfillment Center 04,Seattle,America/Chicago,2026-01-01,active
+FAC-005,Fulfillment Center 05,Denver,America/Chicago,2026-01-01,active
+FAC-006,Fulfillment Center 06,Chicago,America/Chicago,2026-01-01,active
+FAC-007,Fulfillment Center 07,Dallas,America/Chicago,2026-01-01,active
+FAC-008,Fulfillment Center 08,Atlanta,America/Chicago,2026-01-01,active
+FAC-009,Fulfillment Center 09,Seattle,America/Chicago,2026-01-01,active
+FAC-010,Fulfillment Center 10,Denver,America/Chicago,2026-01-01,active

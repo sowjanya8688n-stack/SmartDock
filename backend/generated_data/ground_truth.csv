@@ -1,0 +1,6 @@
+label_id,appointment_id,issue_type,expected_decision,rule
+GT-019995,APPT-2026-019995,overlapping_appointments,reject_or_flag,DOCK_CAPACITY
+GT-019996,APPT-2026-019996,incompatible_load_assigned,reject_or_flag,DOCK_COMPATIBILITY
+GT-019997,APPT-2026-019997,checkin_before_appointment_date,reject_or_flag,EARLY_DATE
+GT-019998,APPT-2026-019998,labor_shift_unavailable,reject_or_flag,LABOR_UNAVAILABLE
+GT-019999,APPT-2026-019999,no_show_not_recorded,reject_or_flag,NO_SHOW

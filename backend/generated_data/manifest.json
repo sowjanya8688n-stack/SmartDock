@@ -1,0 +1,61 @@
+{
+  "seed": 20261022,
+  "anchor_date": "2026-01-01",
+  "days": 60,
+  "appointment_count": 20000,
+  "generated_at_fixed": true,
+  "files": {
+    "facilities": {
+      "rows": 10,
+      "sha256": "29eac06e6002f4107fe8908373e3bcaf2e3319b5abcab94ad0ea33c333673ccb"
+    },
+    "docks": {
+      "rows": 100,
+      "sha256": "cef1d3e565a0165214afb5d8b91ada8e3c9c31695f04b3c5f725ab40ad07cad0"
+    },
+    "yard_slots": {
+      "rows": 200,
+      "sha256": "3e8d45de2d03e7e0c0bedc54dfccd77901f58a1099c47fb2dd6c4e9b3bd4f995"
+    },
+    "carriers": {
+      "rows": 50,
+      "sha256": "f912a2696e830121265d46138b717a2b562f2874ac07cce5223ad5f439ee645c"
+    },
+    "vehicles": {
+      "rows": 500,
+      "sha256": "444d58c1cea4b8c24cfbf82b45f79252316efd2000df323772b72457beb64281"
+    },
+    "appointments": {
+      "rows": 20000,
+      "sha256": "2eb8003c296936897ac323d3cac06e7ada83b8f10fbd0ac0d8417c399edde966"
+    },
+    "shipments": {
+      "rows": 20000,
+      "sha256": "1ae0a34fe1f8efd3810308d401aff4410b55544f33d9b628065ffbeef38d4635"
+    },
+    "labor_shifts": {
+      "rows": 600,
+      "sha256": "2bdd3a2d9b6f2dca770687769139655f83e4a136f6bd8170cc380bcf3a63aec1"
+    },
+    "handling_requirements": {
+      "rows": 20000,
+      "sha256": "883019ca63ddc0907c9620decabb756a63144634b36c8dd9ac4e93c73bab4989"
+    },
+    "checkin_events": {
+      "rows": 19999,
+      "sha256": "c252aa45ceb5fab3c17100255dd9d0c1b2f859f48b7e3695b78f16686fd4a55f"
+    },
+    "exceptions": {
+      "rows": 5,
+      "sha256": "51758de01850966748b9d2f5dedfcd394a126ead8f113f478aa1d2329b5a5810"
+    },
+    "events": {
+      "rows": 100000,
+      "sha256": "f5e8cb5de5e73107266826b24f132a8d3007e259fb34ff7ef02a5b53bd0a41d5"
+    },
+    "ground_truth": {
+      "rows": 5,
+      "sha256": "7499c2e09527d43915241ccc24db6e13279f7bc5b77a6342b4380ca46efebca3"
+    }
+  }
+}
